@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.center {
+  position: relative;
+  width: fit-content;
+}
+
+.image {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+}
+
+.image img {
+  width: 130px;
+}
